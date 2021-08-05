@@ -5,7 +5,7 @@
         console.log(data)
         var chart = anychart.graph(data);
         // set title
-        chart.title("Network Graph showing the battles in Game of Thrones");
+        chart.title("Music Exquisite Corpse");
         // access nodes
         var nodes = chart.nodes();
 
